@@ -43,6 +43,59 @@
 - Tilidin
 - Tramadol
 
-### S
-- 2
-- 3
+### Afrikanische_Länder
+
+- Ägypten
+- Äquatorialguinea
+- Äthiopien
+- Algerien
+- Angola
+- Benin
+- Botswana
+- Burkina Faso
+- Burundi
+- Dschibuti
+- Elfenbeinküste
+- Eritrea
+- Eswatini
+- Gabun
+- Gambia
+- Ghana
+- Guinea
+- Guinea-Bissau
+- Kamerun
+- Kap Verde
+- Kenia
+- Komoren
+- Demokratische Republik Kongo
+- Republik Kongo
+- Lesotho
+- Liberia
+- Libyen
+- Madagaskar
+- Malawi
+- Mali
+- Marokko
+- Mauretanien
+- Mauritius
+- Mosambik
+- Namibia
+- Niger
+- Nigeria
+- Ruanda
+- Sambia
+- São Tomé und Príncipe
+- Senegal
+- Seychellen
+- Sierra Leone
+- Simbabwe
+- Somalia
+- Südafrika
+- Sudan
+- Südsudan
+- Tansania
+- Togo
+- Tschad
+- Tunesien
+- Uganda
+- Zentralafrikanische Republik
