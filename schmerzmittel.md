@@ -1,0 +1,44 @@
+
+### Schmerzmittel
+- Acetylsalicylsäure ASS
+- Alfentanil
+- Cannabinoide
+- Buprenorphin
+- Capsaicin
+- Codein
+- Celecoxib
+- Dihydrocodein
+- Diclofenac
+- Fentanyl
+- Etoricoxib
+- Heroin
+- Flupirtin (nicht mehr zugelassen)
+- Hydromorphon
+- Ibuprofen
+- Levomethadon
+- Indometacin
+- Meptazinol
+- Ketamin
+- Methadon
+- Luwmiracoxib (vom Markt genommen)
+- Morphin
+- Metamizol, Novaminsulfon
+- Nalbuphin
+- Naproxen
+- Naloxon
+- Paracetamol
+- Naltrexon
+- Parecoxib
+- Oxycodon
+- Phenazon
+- Pentazocin (vom Markt genommen)
+- Propyphenazon
+- Pethidin
+- Valdecoxib (vom Markt genommen)
+- Piritramid
+- Ziconotid, ω-Conotoxin
+- Remifentanil
+- Sufentanil
+- Tapentadol
+- Tilidin
+- Tramadol
